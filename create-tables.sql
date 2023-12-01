@@ -1,3 +1,5 @@
+
+
 DROP TABLE IF EXISTS User;
 CREATE TABLE User (
     username VARCHAR(10) NOT NULL,
